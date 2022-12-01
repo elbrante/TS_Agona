@@ -12,6 +12,7 @@
     "strictBindCallApply": true,
     "strictPropertyInitialization": true,
     "strictFunctionTypes": true,
-    "alwaysStrict": true
+    "alwaysStrict": true,
+    "jsx": "react"
   }
 }
